@@ -1,0 +1,8 @@
+{
+  "block.minecraft.bed.alternate_form": "Вы не можете отдыхать в трансформированной форме",
+  "options.strawberrylib": "StrawberryLib...",
+  "options.strawberrylibTitle": "StrawberryLib",
+  "options.strawberrylib.equippable_glint_color": "Цвет блеска снаряжения",
+  "options.strawberrylib.glint_color": "Цвет блеска",
+  "tag.item.strawberrylib.untrimmable_armor": "Неукрашаемая броня"
+}
